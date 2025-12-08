@@ -2,8 +2,8 @@
 
 This interactive dashboard visualizes global population trends from 1970 to 2022, with a special focus on continent-level insights. Built using **PostgreSQL**, **DAX**, and **Power BI**, it enables users to explore demographic patterns through dynamic filters and rich visual storytelling.
 
-<img width="1306" height="732" alt="Screenshot 2025-12-08 211103" src="https://github.com/user-attachments/assets/3366b615-76c8-4322-a696-341a5bdc971b" />
 <img width="1307" height="732" alt="Screenshot 2025-12-08 211028" src="https://github.com/user-attachments/assets/72e013a1-0853-4b66-bcce-fba9f69cb692" />
+<img width="1306" height="732" alt="Screenshot 2025-12-08 211103" src="https://github.com/user-attachments/assets/3366b615-76c8-4322-a696-341a5bdc971b" />
 
 ## 📊 Tools & Technologies
 - **PostgreSQL**: Data storage and querying  
